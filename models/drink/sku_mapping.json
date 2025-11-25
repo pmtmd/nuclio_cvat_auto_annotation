@@ -1,0 +1,1281 @@
+{
+  "idx_to_sku_pair": {
+    "0": {
+      "class": "Cola_Can_S",
+      "flavor": "کولا"
+    },
+    "1": {
+      "class": "Doogh_Glass_S",
+      "flavor": "ساده"
+    },
+    "2": {
+      "class": "Doogh_Glass_S",
+      "flavor": "نعناع"
+    },
+    "3": {
+      "class": "Edge_Can_S",
+      "flavor": "بدون شکر"
+    },
+    "4": {
+      "class": "Edge_Can_S",
+      "flavor": "بلوبری"
+    },
+    "5": {
+      "class": "Edge_Can_S",
+      "flavor": "توت جنگلی"
+    },
+    "6": {
+      "class": "Edge_Can_S",
+      "flavor": "موهیتو"
+    },
+    "7": {
+      "class": "Edge_Can_S",
+      "flavor": "کاکتوس"
+    },
+    "8": {
+      "class": "Edge_Can_S",
+      "flavor": "کلاسیک"
+    },
+    "9": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "انبه"
+    },
+    "10": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "بادام"
+    },
+    "11": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "بلوکاراسائو"
+    },
+    "12": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "توت فرنگی"
+    },
+    "13": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "دارچین"
+    },
+    "14": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "رز"
+    },
+    "15": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "سکنجبین"
+    },
+    "16": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "شکلات"
+    },
+    "17": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "فندق"
+    },
+    "18": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "لوتوس"
+    },
+    "19": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "نارگیل"
+    },
+    "20": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "نعناع"
+    },
+    "21": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "نیشکر"
+    },
+    "22": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "هل"
+    },
+    "23": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "وانیل"
+    },
+    "24": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "کارامل"
+    },
+    "25": {
+      "class": "FlavoredSyrup_Glass",
+      "flavor": "کرنبری"
+    },
+    "26": {
+      "class": "FruitSyrup_Glass",
+      "flavor": "آلبالو"
+    },
+    "27": {
+      "class": "FruitSyrup_Glass",
+      "flavor": "آناناس"
+    },
+    "28": {
+      "class": "FruitSyrup_Glass",
+      "flavor": "لیمو"
+    },
+    "29": {
+      "class": "FruitSyrup_Glass",
+      "flavor": "موهیتو"
+    },
+    "30": {
+      "class": "FruitSyrup_Glass",
+      "flavor": "پرتقال"
+    },
+    "31": {
+      "class": "FruitSyrup_Glass",
+      "flavor": "پشن فروت"
+    },
+    "32": {
+      "class": "Fruity_Can_S",
+      "flavor": "آناناس"
+    },
+    "33": {
+      "class": "Fruity_Can_S",
+      "flavor": "انبه"
+    },
+    "34": {
+      "class": "Fruity_Can_S",
+      "flavor": "هلو"
+    },
+    "35": {
+      "class": "Fruity_Can_S",
+      "flavor": "پرتقال"
+    },
+    "36": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "آلبالو"
+    },
+    "37": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "آلوئه ورا"
+    },
+    "38": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "انبه پشن فروت"
+    },
+    "39": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "اوشن بلو"
+    },
+    "40": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "بابل گام"
+    },
+    "41": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "بلوهاوایی"
+    },
+    "42": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "تونیک"
+    },
+    "43": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "سیب کیوی"
+    },
+    "44": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "سیتروس خیار"
+    },
+    "45": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "سیتروس پاپایا"
+    },
+    "46": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "قهوه"
+    },
+    "47": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "لیموناد"
+    },
+    "48": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "مخلوط توت ها"
+    },
+    "49": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "هلو"
+    },
+    "50": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "هندوانه"
+    },
+    "51": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "پیناکولادا"
+    },
+    "52": {
+      "class": "IcyMonkey_Glass_S",
+      "flavor": "کاکتوس"
+    },
+    "53": {
+      "class": "Lemonade_Bottle_B",
+      "flavor": "لیموناد"
+    },
+    "54": {
+      "class": "Lemonade_Glass_S",
+      "flavor": "لیموناد"
+    },
+    "55": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "آناناس"
+    },
+    "56": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "استوایی"
+    },
+    "57": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "دارک"
+    },
+    "58": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "سیب"
+    },
+    "59": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "لیمو"
+    },
+    "60": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "مکزیکی نمک و لیمو"
+    },
+    "61": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "هلو"
+    },
+    "62": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "کلاسیک"
+    },
+    "63": {
+      "class": "Maltich_Bottle_B",
+      "flavor": "گلابی"
+    },
+    "64": {
+      "class": "Maltich_Can_S",
+      "flavor": "استوایی"
+    },
+    "65": {
+      "class": "Maltich_Can_S",
+      "flavor": "دارک"
+    },
+    "66": {
+      "class": "Maltich_Can_S",
+      "flavor": "لیمو"
+    },
+    "67": {
+      "class": "Maltich_Can_S",
+      "flavor": "هلو"
+    },
+    "68": {
+      "class": "Maltich_Can_S",
+      "flavor": "کلاسیک"
+    },
+    "69": {
+      "class": "Maltich_Glass_S",
+      "flavor": "آناناس"
+    },
+    "70": {
+      "class": "Maltich_Glass_S",
+      "flavor": "استوایی"
+    },
+    "71": {
+      "class": "Maltich_Glass_S",
+      "flavor": "لیمو"
+    },
+    "72": {
+      "class": "Maltich_Glass_S",
+      "flavor": "مکزیکی نمک و لیمو"
+    },
+    "73": {
+      "class": "Maltich_Glass_S",
+      "flavor": "هلو"
+    },
+    "74": {
+      "class": "Maltich_Glass_S",
+      "flavor": "کلاسیک"
+    },
+    "75": {
+      "class": "Maltich_Glass_S",
+      "flavor": "گلابی"
+    },
+    "76": {
+      "class": "Persis_Glass_S",
+      "flavor": "آلبالو"
+    },
+    "77": {
+      "class": "Persis_Glass_S",
+      "flavor": "آلوئه ورا"
+    },
+    "78": {
+      "class": "Persis_Glass_S",
+      "flavor": "لیمو بیدمشک"
+    },
+    "79": {
+      "class": "Persis_Glass_S",
+      "flavor": "لیمو زعفران"
+    },
+    "80": {
+      "class": "Persis_Glass_S",
+      "flavor": "لیمو سنکجبین"
+    },
+    "81": {
+      "class": "QubeBasilSeed_Glass_S",
+      "flavor": "آلبالو"
+    },
+    "82": {
+      "class": "QubeBasilSeed_Glass_S",
+      "flavor": "انبه"
+    },
+    "83": {
+      "class": "QubeBasilSeed_Glass_S",
+      "flavor": "بلوبری"
+    },
+    "84": {
+      "class": "QubeBasilSeed_Glass_S",
+      "flavor": "توت فرنگی"
+    },
+    "85": {
+      "class": "QubeBasilSeed_Glass_S",
+      "flavor": "طالبی"
+    },
+    "86": {
+      "class": "QubeBasilSeed_Glass_S",
+      "flavor": "پرتقال"
+    },
+    "87": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "آناناس"
+    },
+    "88": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "انبه"
+    },
+    "89": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "انگور"
+    },
+    "90": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "بلوبری"
+    },
+    "91": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "توت فرنگی"
+    },
+    "92": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "طالبی"
+    },
+    "93": {
+      "class": "QubeCoco_Glass_S",
+      "flavor": "پرتقال"
+    },
+    "94": {
+      "class": "SherissaFizzy_Bottle_B",
+      "flavor": "آلبالو"
+    },
+    "95": {
+      "class": "SherissaFizzy_Bottle_B",
+      "flavor": "انگور قرمز"
+    },
+    "96": {
+      "class": "Sherissa_Bottle_B",
+      "flavor": "آلبالو"
+    },
+    "97": {
+      "class": "Sherissa_Bottle_B",
+      "flavor": "آناناس"
+    },
+    "98": {
+      "class": "Sherissa_Bottle_B",
+      "flavor": "انار"
+    },
+    "99": {
+      "class": "Sherissa_Bottle_B",
+      "flavor": "انبه"
+    },
+    "100": {
+      "class": "Sherissa_Bottle_B",
+      "flavor": "هلو"
+    },
+    "101": {
+      "class": "Sherissa_Bottle_B",
+      "flavor": "پرتقال"
+    },
+    "102": {
+      "class": "Sherissa_Bottle_S",
+      "flavor": "آلبالو"
+    },
+    "103": {
+      "class": "Sherissa_Bottle_S",
+      "flavor": "آناناس"
+    },
+    "104": {
+      "class": "Sherissa_Bottle_S",
+      "flavor": "انار"
+    },
+    "105": {
+      "class": "Sherissa_Bottle_S",
+      "flavor": "انبه"
+    },
+    "106": {
+      "class": "Sherissa_Bottle_S",
+      "flavor": "هلو"
+    },
+    "107": {
+      "class": "Sherissa_Bottle_S",
+      "flavor": "پرتقال"
+    },
+    "108": {
+      "class": "Sherissa_Pak_B",
+      "flavor": "آلبالو"
+    },
+    "109": {
+      "class": "Sherissa_Pak_B",
+      "flavor": "آناناس"
+    },
+    "110": {
+      "class": "Sherissa_Pak_B",
+      "flavor": "انبه"
+    },
+    "111": {
+      "class": "Sherissa_Pak_B",
+      "flavor": "هلو"
+    },
+    "112": {
+      "class": "Sherissa_Pak_B",
+      "flavor": "پرتقال"
+    },
+    "113": {
+      "class": "Sherissa_Pak_S",
+      "flavor": "آلبالو"
+    },
+    "114": {
+      "class": "Sherissa_Pak_S",
+      "flavor": "آناناس"
+    },
+    "115": {
+      "class": "Sherissa_Pak_S",
+      "flavor": "انبه"
+    },
+    "116": {
+      "class": "Sherissa_Pak_S",
+      "flavor": "هلو"
+    },
+    "117": {
+      "class": "Sherissa_Pak_S",
+      "flavor": "پرتقال"
+    },
+    "118": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "آلبالو"
+    },
+    "119": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "استوایی"
+    },
+    "120": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "انگور"
+    },
+    "121": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "بلوبری"
+    },
+    "122": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "سیب"
+    },
+    "123": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "سیب گلابی"
+    },
+    "124": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "لیموناد"
+    },
+    "125": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "موهیتو"
+    },
+    "126": {
+      "class": "SunichCool_Bottle_B",
+      "flavor": "پرتقال"
+    },
+    "127": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "آلبالو"
+    },
+    "128": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "استوایی"
+    },
+    "129": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "انگور"
+    },
+    "130": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "بلوبری"
+    },
+    "131": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "سیب"
+    },
+    "132": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "سیب گلابی"
+    },
+    "133": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "لیموناد"
+    },
+    "134": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "موهیتو"
+    },
+    "135": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "پرتقال"
+    },
+    "136": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "کاکتوس"
+    },
+    "137": {
+      "class": "SunichCool_Glass_S",
+      "flavor": "گلابی"
+    },
+    "138": {
+      "class": "SunichKid_Pak_S",
+      "flavor": "آناناس"
+    },
+    "139": {
+      "class": "SunichKid_Pak_S",
+      "flavor": "انبه"
+    },
+    "140": {
+      "class": "SunichKid_Pak_S",
+      "flavor": "سیب"
+    },
+    "141": {
+      "class": "SunichKid_Pak_S",
+      "flavor": "پرتقال آناناس"
+    },
+    "142": {
+      "class": "SunichKid_Pak_S",
+      "flavor": "گرمسیری"
+    },
+    "143": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "آناناس و استارفروت"
+    },
+    "144": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "استوایی"
+    },
+    "145": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "انار و آلبالو"
+    },
+    "146": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "زرشک و آلبالو"
+    },
+    "147": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "فلفل و گوجه"
+    },
+    "148": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "مرکبات"
+    },
+    "149": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "کرنبری و گریپ فروت"
+    },
+    "150": {
+      "class": "SunichMix_Bottle_B",
+      "flavor": "کیوی لیمو"
+    },
+    "151": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "آلو قرمز"
+    },
+    "152": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "آناناس زنجبیل"
+    },
+    "153": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "آناناس موز نارگیل"
+    },
+    "154": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "خرمالو گرمک"
+    },
+    "155": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "سیب موز دارچین"
+    },
+    "156": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "سیب کیوی لیمو"
+    },
+    "157": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "موز انبه پشن فروت"
+    },
+    "158": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "موز توت فرنگی"
+    },
+    "159": {
+      "class": "SunichSmoothie_Bottle_S",
+      "flavor": "چغندر قرمز، زغال اخته"
+    },
+    "160": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "آلبالو"
+    },
+    "161": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "آناناس"
+    },
+    "162": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "انار بلوبری"
+    },
+    "163": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "انبه"
+    },
+    "164": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "زردآلو"
+    },
+    "165": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "سیب"
+    },
+    "166": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "لیموناد"
+    },
+    "167": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "موهیتو"
+    },
+    "168": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "هلو"
+    },
+    "169": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "پرتقال"
+    },
+    "170": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "پرتقال توسرخ"
+    },
+    "171": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "پیناکولادا"
+    },
+    "172": {
+      "class": "Sunich_Bottle_B",
+      "flavor": "گوجه"
+    },
+    "173": {
+      "class": "Sunich_Bottle_PET750NFC",
+      "flavor": "آب انار ویژه"
+    },
+    "174": {
+      "class": "Sunich_Bottle_PET750NFC",
+      "flavor": "آب سیب ویژه"
+    },
+    "175": {
+      "class": "Sunich_Bottle_PET750NFC",
+      "flavor": "آب گوجه ویژه"
+    },
+    "176": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "آلبالو"
+    },
+    "177": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "آلوئه ورا"
+    },
+    "178": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "آناناس"
+    },
+    "179": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "انبه"
+    },
+    "180": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "تمبرهندی"
+    },
+    "181": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "زردآلو"
+    },
+    "182": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "سیب"
+    },
+    "183": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "هلو"
+    },
+    "184": {
+      "class": "Sunich_Bottle_S",
+      "flavor": "پرتقال"
+    },
+    "185": {
+      "class": "Sunich_Glass_S",
+      "flavor": "آلبالو"
+    },
+    "186": {
+      "class": "Sunich_Glass_S",
+      "flavor": "انبه"
+    },
+    "187": {
+      "class": "Sunich_Glass_S",
+      "flavor": "سیب"
+    },
+    "188": {
+      "class": "Sunich_Glass_S",
+      "flavor": "لیموناد"
+    },
+    "189": {
+      "class": "Sunich_Glass_S",
+      "flavor": "موهیتو"
+    },
+    "190": {
+      "class": "Sunich_Glass_S",
+      "flavor": "هلو"
+    },
+    "191": {
+      "class": "Sunich_Glass_S",
+      "flavor": "پرتقال"
+    },
+    "192": {
+      "class": "Sunich_Glass_S",
+      "flavor": "پیناکولادا"
+    },
+    "193": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "انار"
+    },
+    "194": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "انار و آلبالو"
+    },
+    "195": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "انار و زرشک"
+    },
+    "196": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "انار و زغالخته"
+    },
+    "197": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "سیب"
+    },
+    "198": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "سیب، پرتقال، موز"
+    },
+    "199": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "مخلوط میوه های قرمز"
+    },
+    "200": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "پرتقال"
+    },
+    "201": {
+      "class": "Sunich_Pak_750cc",
+      "flavor": "گوجه"
+    },
+    "202": {
+      "class": "Sunich_Pak_B",
+      "flavor": "آب پرتقال خالص"
+    },
+    "203": {
+      "class": "Sunich_Pak_B",
+      "flavor": "آلبالو"
+    },
+    "204": {
+      "class": "Sunich_Pak_B",
+      "flavor": "آلو قرمز"
+    },
+    "205": {
+      "class": "Sunich_Pak_B",
+      "flavor": "آلوئه ورا"
+    },
+    "206": {
+      "class": "Sunich_Pak_B",
+      "flavor": "آناناس"
+    },
+    "207": {
+      "class": "Sunich_Pak_B",
+      "flavor": "انار"
+    },
+    "208": {
+      "class": "Sunich_Pak_B",
+      "flavor": "انار و زرشک"
+    },
+    "209": {
+      "class": "Sunich_Pak_B",
+      "flavor": "انبه"
+    },
+    "210": {
+      "class": "Sunich_Pak_B",
+      "flavor": "انبه پشن فروت"
+    },
+    "211": {
+      "class": "Sunich_Pak_B",
+      "flavor": "انگور سفید"
+    },
+    "212": {
+      "class": "Sunich_Pak_B",
+      "flavor": "انگور قرمز"
+    },
+    "213": {
+      "class": "Sunich_Pak_B",
+      "flavor": "زردآلو"
+    },
+    "214": {
+      "class": "Sunich_Pak_B",
+      "flavor": "زغال اخته"
+    },
+    "215": {
+      "class": "Sunich_Pak_B",
+      "flavor": "سیب"
+    },
+    "216": {
+      "class": "Sunich_Pak_B",
+      "flavor": "سیب گلابی"
+    },
+    "217": {
+      "class": "Sunich_Pak_B",
+      "flavor": "سیب، پرتقال، موز"
+    },
+    "218": {
+      "class": "Sunich_Pak_B",
+      "flavor": "لیموناد"
+    },
+    "219": {
+      "class": "Sunich_Pak_B",
+      "flavor": "موهیتو"
+    },
+    "220": {
+      "class": "Sunich_Pak_B",
+      "flavor": "میوه های گرمسیری"
+    },
+    "221": {
+      "class": "Sunich_Pak_B",
+      "flavor": "هفت میوه"
+    },
+    "222": {
+      "class": "Sunich_Pak_B",
+      "flavor": "هلو"
+    },
+    "223": {
+      "class": "Sunich_Pak_B",
+      "flavor": "پرتقال"
+    },
+    "224": {
+      "class": "Sunich_Pak_B",
+      "flavor": "پرتقال توسرخ"
+    },
+    "225": {
+      "class": "Sunich_Pak_B",
+      "flavor": "پرتقال هویج"
+    },
+    "226": {
+      "class": "Sunich_Pak_B",
+      "flavor": "پیناکولادا"
+    },
+    "227": {
+      "class": "Sunich_Pak_B",
+      "flavor": "گریپ فروت"
+    },
+    "228": {
+      "class": "Sunich_Pak_S",
+      "flavor": "آلبالو"
+    },
+    "229": {
+      "class": "Sunich_Pak_S",
+      "flavor": "آناناس"
+    },
+    "230": {
+      "class": "Sunich_Pak_S",
+      "flavor": "انار"
+    },
+    "231": {
+      "class": "Sunich_Pak_S",
+      "flavor": "انبه"
+    },
+    "232": {
+      "class": "Sunich_Pak_S",
+      "flavor": "انگور سفید"
+    },
+    "233": {
+      "class": "Sunich_Pak_S",
+      "flavor": "انگور قرمز"
+    },
+    "234": {
+      "class": "Sunich_Pak_S",
+      "flavor": "زردآلو"
+    },
+    "235": {
+      "class": "Sunich_Pak_S",
+      "flavor": "سیب"
+    },
+    "236": {
+      "class": "Sunich_Pak_S",
+      "flavor": "سیب موز"
+    },
+    "237": {
+      "class": "Sunich_Pak_S",
+      "flavor": "لیموناد"
+    },
+    "238": {
+      "class": "Sunich_Pak_S",
+      "flavor": "موهیتو"
+    },
+    "239": {
+      "class": "Sunich_Pak_S",
+      "flavor": "هفت میوه"
+    },
+    "240": {
+      "class": "Sunich_Pak_S",
+      "flavor": "هلو"
+    },
+    "241": {
+      "class": "Sunich_Pak_S",
+      "flavor": "پرتقال"
+    },
+    "242": {
+      "class": "Syrup_Gallon_13kg",
+      "flavor": "پرتقال"
+    },
+    "243": {
+      "class": "Syrup_Gallon_2kg",
+      "flavor": "آلبالو"
+    },
+    "244": {
+      "class": "Syrup_Gallon_2kg",
+      "flavor": "آناناس"
+    },
+    "245": {
+      "class": "Syrup_Gallon_2kg",
+      "flavor": "انبه"
+    },
+    "246": {
+      "class": "Syrup_Gallon_2kg",
+      "flavor": "لیمو"
+    },
+    "247": {
+      "class": "Syrup_Gallon_2kg",
+      "flavor": "موهیتو"
+    },
+    "248": {
+      "class": "Syrup_Gallon_2kg",
+      "flavor": "پرتقال"
+    },
+    "249": {
+      "class": "Syrup_Gallon_3kg",
+      "flavor": "آلبالو"
+    },
+    "250": {
+      "class": "Syrup_Gallon_3kg",
+      "flavor": "آناناس"
+    },
+    "251": {
+      "class": "Syrup_Gallon_3kg",
+      "flavor": "انبه"
+    },
+    "252": {
+      "class": "Syrup_Gallon_3kg",
+      "flavor": "لیمو"
+    },
+    "253": {
+      "class": "Syrup_Gallon_3kg",
+      "flavor": "موهیتو"
+    },
+    "254": {
+      "class": "Syrup_Gallon_3kg",
+      "flavor": "پرتقال"
+    }
+  },
+  "sku_pair_to_idx": {
+    "Cola_Can_S__کولا": 0,
+    "Doogh_Glass_S__ساده": 1,
+    "Doogh_Glass_S__نعناع": 2,
+    "Edge_Can_S__بدون شکر": 3,
+    "Edge_Can_S__بلوبری": 4,
+    "Edge_Can_S__توت جنگلی": 5,
+    "Edge_Can_S__موهیتو": 6,
+    "Edge_Can_S__کاکتوس": 7,
+    "Edge_Can_S__کلاسیک": 8,
+    "FlavoredSyrup_Glass__انبه": 9,
+    "FlavoredSyrup_Glass__بادام": 10,
+    "FlavoredSyrup_Glass__بلوکاراسائو": 11,
+    "FlavoredSyrup_Glass__توت فرنگی": 12,
+    "FlavoredSyrup_Glass__دارچین": 13,
+    "FlavoredSyrup_Glass__رز": 14,
+    "FlavoredSyrup_Glass__سکنجبین": 15,
+    "FlavoredSyrup_Glass__شکلات": 16,
+    "FlavoredSyrup_Glass__فندق": 17,
+    "FlavoredSyrup_Glass__لوتوس": 18,
+    "FlavoredSyrup_Glass__نارگیل": 19,
+    "FlavoredSyrup_Glass__نعناع": 20,
+    "FlavoredSyrup_Glass__نیشکر": 21,
+    "FlavoredSyrup_Glass__هل": 22,
+    "FlavoredSyrup_Glass__وانیل": 23,
+    "FlavoredSyrup_Glass__کارامل": 24,
+    "FlavoredSyrup_Glass__کرنبری": 25,
+    "FruitSyrup_Glass__آلبالو": 26,
+    "FruitSyrup_Glass__آناناس": 27,
+    "FruitSyrup_Glass__لیمو": 28,
+    "FruitSyrup_Glass__موهیتو": 29,
+    "FruitSyrup_Glass__پرتقال": 30,
+    "FruitSyrup_Glass__پشن فروت": 31,
+    "Fruity_Can_S__آناناس": 32,
+    "Fruity_Can_S__انبه": 33,
+    "Fruity_Can_S__هلو": 34,
+    "Fruity_Can_S__پرتقال": 35,
+    "IcyMonkey_Glass_S__آلبالو": 36,
+    "IcyMonkey_Glass_S__آلوئه ورا": 37,
+    "IcyMonkey_Glass_S__انبه پشن فروت": 38,
+    "IcyMonkey_Glass_S__اوشن بلو": 39,
+    "IcyMonkey_Glass_S__بابل گام": 40,
+    "IcyMonkey_Glass_S__بلوهاوایی": 41,
+    "IcyMonkey_Glass_S__تونیک": 42,
+    "IcyMonkey_Glass_S__سیب کیوی": 43,
+    "IcyMonkey_Glass_S__سیتروس خیار": 44,
+    "IcyMonkey_Glass_S__سیتروس پاپایا": 45,
+    "IcyMonkey_Glass_S__قهوه": 46,
+    "IcyMonkey_Glass_S__لیموناد": 47,
+    "IcyMonkey_Glass_S__مخلوط توت ها": 48,
+    "IcyMonkey_Glass_S__هلو": 49,
+    "IcyMonkey_Glass_S__هندوانه": 50,
+    "IcyMonkey_Glass_S__پیناکولادا": 51,
+    "IcyMonkey_Glass_S__کاکتوس": 52,
+    "Lemonade_Bottle_B__لیموناد": 53,
+    "Lemonade_Glass_S__لیموناد": 54,
+    "Maltich_Bottle_B__آناناس": 55,
+    "Maltich_Bottle_B__استوایی": 56,
+    "Maltich_Bottle_B__دارک": 57,
+    "Maltich_Bottle_B__سیب": 58,
+    "Maltich_Bottle_B__لیمو": 59,
+    "Maltich_Bottle_B__مکزیکی نمک و لیمو": 60,
+    "Maltich_Bottle_B__هلو": 61,
+    "Maltich_Bottle_B__کلاسیک": 62,
+    "Maltich_Bottle_B__گلابی": 63,
+    "Maltich_Can_S__استوایی": 64,
+    "Maltich_Can_S__دارک": 65,
+    "Maltich_Can_S__لیمو": 66,
+    "Maltich_Can_S__هلو": 67,
+    "Maltich_Can_S__کلاسیک": 68,
+    "Maltich_Glass_S__آناناس": 69,
+    "Maltich_Glass_S__استوایی": 70,
+    "Maltich_Glass_S__لیمو": 71,
+    "Maltich_Glass_S__مکزیکی نمک و لیمو": 72,
+    "Maltich_Glass_S__هلو": 73,
+    "Maltich_Glass_S__کلاسیک": 74,
+    "Maltich_Glass_S__گلابی": 75,
+    "Persis_Glass_S__آلبالو": 76,
+    "Persis_Glass_S__آلوئه ورا": 77,
+    "Persis_Glass_S__لیمو بیدمشک": 78,
+    "Persis_Glass_S__لیمو زعفران": 79,
+    "Persis_Glass_S__لیمو سنکجبین": 80,
+    "QubeBasilSeed_Glass_S__آلبالو": 81,
+    "QubeBasilSeed_Glass_S__انبه": 82,
+    "QubeBasilSeed_Glass_S__بلوبری": 83,
+    "QubeBasilSeed_Glass_S__توت فرنگی": 84,
+    "QubeBasilSeed_Glass_S__طالبی": 85,
+    "QubeBasilSeed_Glass_S__پرتقال": 86,
+    "QubeCoco_Glass_S__آناناس": 87,
+    "QubeCoco_Glass_S__انبه": 88,
+    "QubeCoco_Glass_S__انگور": 89,
+    "QubeCoco_Glass_S__بلوبری": 90,
+    "QubeCoco_Glass_S__توت فرنگی": 91,
+    "QubeCoco_Glass_S__طالبی": 92,
+    "QubeCoco_Glass_S__پرتقال": 93,
+    "SherissaFizzy_Bottle_B__آلبالو": 94,
+    "SherissaFizzy_Bottle_B__انگور قرمز": 95,
+    "Sherissa_Bottle_B__آلبالو": 96,
+    "Sherissa_Bottle_B__آناناس": 97,
+    "Sherissa_Bottle_B__انار": 98,
+    "Sherissa_Bottle_B__انبه": 99,
+    "Sherissa_Bottle_B__هلو": 100,
+    "Sherissa_Bottle_B__پرتقال": 101,
+    "Sherissa_Bottle_S__آلبالو": 102,
+    "Sherissa_Bottle_S__آناناس": 103,
+    "Sherissa_Bottle_S__انار": 104,
+    "Sherissa_Bottle_S__انبه": 105,
+    "Sherissa_Bottle_S__هلو": 106,
+    "Sherissa_Bottle_S__پرتقال": 107,
+    "Sherissa_Pak_B__آلبالو": 108,
+    "Sherissa_Pak_B__آناناس": 109,
+    "Sherissa_Pak_B__انبه": 110,
+    "Sherissa_Pak_B__هلو": 111,
+    "Sherissa_Pak_B__پرتقال": 112,
+    "Sherissa_Pak_S__آلبالو": 113,
+    "Sherissa_Pak_S__آناناس": 114,
+    "Sherissa_Pak_S__انبه": 115,
+    "Sherissa_Pak_S__هلو": 116,
+    "Sherissa_Pak_S__پرتقال": 117,
+    "SunichCool_Bottle_B__آلبالو": 118,
+    "SunichCool_Bottle_B__استوایی": 119,
+    "SunichCool_Bottle_B__انگور": 120,
+    "SunichCool_Bottle_B__بلوبری": 121,
+    "SunichCool_Bottle_B__سیب": 122,
+    "SunichCool_Bottle_B__سیب گلابی": 123,
+    "SunichCool_Bottle_B__لیموناد": 124,
+    "SunichCool_Bottle_B__موهیتو": 125,
+    "SunichCool_Bottle_B__پرتقال": 126,
+    "SunichCool_Glass_S__آلبالو": 127,
+    "SunichCool_Glass_S__استوایی": 128,
+    "SunichCool_Glass_S__انگور": 129,
+    "SunichCool_Glass_S__بلوبری": 130,
+    "SunichCool_Glass_S__سیب": 131,
+    "SunichCool_Glass_S__سیب گلابی": 132,
+    "SunichCool_Glass_S__لیموناد": 133,
+    "SunichCool_Glass_S__موهیتو": 134,
+    "SunichCool_Glass_S__پرتقال": 135,
+    "SunichCool_Glass_S__کاکتوس": 136,
+    "SunichCool_Glass_S__گلابی": 137,
+    "SunichKid_Pak_S__آناناس": 138,
+    "SunichKid_Pak_S__انبه": 139,
+    "SunichKid_Pak_S__سیب": 140,
+    "SunichKid_Pak_S__پرتقال آناناس": 141,
+    "SunichKid_Pak_S__گرمسیری": 142,
+    "SunichMix_Bottle_B__آناناس و استارفروت": 143,
+    "SunichMix_Bottle_B__استوایی": 144,
+    "SunichMix_Bottle_B__انار و آلبالو": 145,
+    "SunichMix_Bottle_B__زرشک و آلبالو": 146,
+    "SunichMix_Bottle_B__فلفل و گوجه": 147,
+    "SunichMix_Bottle_B__مرکبات": 148,
+    "SunichMix_Bottle_B__کرنبری و گریپ فروت": 149,
+    "SunichMix_Bottle_B__کیوی لیمو": 150,
+    "SunichSmoothie_Bottle_S__آلو قرمز": 151,
+    "SunichSmoothie_Bottle_S__آناناس زنجبیل": 152,
+    "SunichSmoothie_Bottle_S__آناناس موز نارگیل": 153,
+    "SunichSmoothie_Bottle_S__خرمالو گرمک": 154,
+    "SunichSmoothie_Bottle_S__سیب موز دارچین": 155,
+    "SunichSmoothie_Bottle_S__سیب کیوی لیمو": 156,
+    "SunichSmoothie_Bottle_S__موز انبه پشن فروت": 157,
+    "SunichSmoothie_Bottle_S__موز توت فرنگی": 158,
+    "SunichSmoothie_Bottle_S__چغندر قرمز، زغال اخته": 159,
+    "Sunich_Bottle_B__آلبالو": 160,
+    "Sunich_Bottle_B__آناناس": 161,
+    "Sunich_Bottle_B__انار بلوبری": 162,
+    "Sunich_Bottle_B__انبه": 163,
+    "Sunich_Bottle_B__زردآلو": 164,
+    "Sunich_Bottle_B__سیب": 165,
+    "Sunich_Bottle_B__لیموناد": 166,
+    "Sunich_Bottle_B__موهیتو": 167,
+    "Sunich_Bottle_B__هلو": 168,
+    "Sunich_Bottle_B__پرتقال": 169,
+    "Sunich_Bottle_B__پرتقال توسرخ": 170,
+    "Sunich_Bottle_B__پیناکولادا": 171,
+    "Sunich_Bottle_B__گوجه": 172,
+    "Sunich_Bottle_PET750NFC__آب انار ویژه": 173,
+    "Sunich_Bottle_PET750NFC__آب سیب ویژه": 174,
+    "Sunich_Bottle_PET750NFC__آب گوجه ویژه": 175,
+    "Sunich_Bottle_S__آلبالو": 176,
+    "Sunich_Bottle_S__آلوئه ورا": 177,
+    "Sunich_Bottle_S__آناناس": 178,
+    "Sunich_Bottle_S__انبه": 179,
+    "Sunich_Bottle_S__تمبرهندی": 180,
+    "Sunich_Bottle_S__زردآلو": 181,
+    "Sunich_Bottle_S__سیب": 182,
+    "Sunich_Bottle_S__هلو": 183,
+    "Sunich_Bottle_S__پرتقال": 184,
+    "Sunich_Glass_S__آلبالو": 185,
+    "Sunich_Glass_S__انبه": 186,
+    "Sunich_Glass_S__سیب": 187,
+    "Sunich_Glass_S__لیموناد": 188,
+    "Sunich_Glass_S__موهیتو": 189,
+    "Sunich_Glass_S__هلو": 190,
+    "Sunich_Glass_S__پرتقال": 191,
+    "Sunich_Glass_S__پیناکولادا": 192,
+    "Sunich_Pak_750cc__انار": 193,
+    "Sunich_Pak_750cc__انار و آلبالو": 194,
+    "Sunich_Pak_750cc__انار و زرشک": 195,
+    "Sunich_Pak_750cc__انار و زغالخته": 196,
+    "Sunich_Pak_750cc__سیب": 197,
+    "Sunich_Pak_750cc__سیب، پرتقال، موز": 198,
+    "Sunich_Pak_750cc__مخلوط میوه های قرمز": 199,
+    "Sunich_Pak_750cc__پرتقال": 200,
+    "Sunich_Pak_750cc__گوجه": 201,
+    "Sunich_Pak_B__آب پرتقال خالص": 202,
+    "Sunich_Pak_B__آلبالو": 203,
+    "Sunich_Pak_B__آلو قرمز": 204,
+    "Sunich_Pak_B__آلوئه ورا": 205,
+    "Sunich_Pak_B__آناناس": 206,
+    "Sunich_Pak_B__انار": 207,
+    "Sunich_Pak_B__انار و زرشک": 208,
+    "Sunich_Pak_B__انبه": 209,
+    "Sunich_Pak_B__انبه پشن فروت": 210,
+    "Sunich_Pak_B__انگور سفید": 211,
+    "Sunich_Pak_B__انگور قرمز": 212,
+    "Sunich_Pak_B__زردآلو": 213,
+    "Sunich_Pak_B__زغال اخته": 214,
+    "Sunich_Pak_B__سیب": 215,
+    "Sunich_Pak_B__سیب گلابی": 216,
+    "Sunich_Pak_B__سیب، پرتقال، موز": 217,
+    "Sunich_Pak_B__لیموناد": 218,
+    "Sunich_Pak_B__موهیتو": 219,
+    "Sunich_Pak_B__میوه های گرمسیری": 220,
+    "Sunich_Pak_B__هفت میوه": 221,
+    "Sunich_Pak_B__هلو": 222,
+    "Sunich_Pak_B__پرتقال": 223,
+    "Sunich_Pak_B__پرتقال توسرخ": 224,
+    "Sunich_Pak_B__پرتقال هویج": 225,
+    "Sunich_Pak_B__پیناکولادا": 226,
+    "Sunich_Pak_B__گریپ فروت": 227,
+    "Sunich_Pak_S__آلبالو": 228,
+    "Sunich_Pak_S__آناناس": 229,
+    "Sunich_Pak_S__انار": 230,
+    "Sunich_Pak_S__انبه": 231,
+    "Sunich_Pak_S__انگور سفید": 232,
+    "Sunich_Pak_S__انگور قرمز": 233,
+    "Sunich_Pak_S__زردآلو": 234,
+    "Sunich_Pak_S__سیب": 235,
+    "Sunich_Pak_S__سیب موز": 236,
+    "Sunich_Pak_S__لیموناد": 237,
+    "Sunich_Pak_S__موهیتو": 238,
+    "Sunich_Pak_S__هفت میوه": 239,
+    "Sunich_Pak_S__هلو": 240,
+    "Sunich_Pak_S__پرتقال": 241,
+    "Syrup_Gallon_13kg__پرتقال": 242,
+    "Syrup_Gallon_2kg__آلبالو": 243,
+    "Syrup_Gallon_2kg__آناناس": 244,
+    "Syrup_Gallon_2kg__انبه": 245,
+    "Syrup_Gallon_2kg__لیمو": 246,
+    "Syrup_Gallon_2kg__موهیتو": 247,
+    "Syrup_Gallon_2kg__پرتقال": 248,
+    "Syrup_Gallon_3kg__آلبالو": 249,
+    "Syrup_Gallon_3kg__آناناس": 250,
+    "Syrup_Gallon_3kg__انبه": 251,
+    "Syrup_Gallon_3kg__لیمو": 252,
+    "Syrup_Gallon_3kg__موهیتو": 253,
+    "Syrup_Gallon_3kg__پرتقال": 254
+  }
+}
