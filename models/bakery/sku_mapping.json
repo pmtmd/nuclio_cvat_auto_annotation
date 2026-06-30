@@ -1,0 +1,536 @@
+{
+  "idx_to_sku_pair": {
+    "0": {
+      "class": "Bockstein_Coffee-Drink",
+      "flavor": "قهوه موکا قوطی"
+    },
+    "1": {
+      "class": "Bockstein_Coffee-Drink",
+      "flavor": "قهوه کلاسیک قوطی"
+    },
+    "2": {
+      "class": "Bockstein_Display",
+      "flavor": "قهوه 2در1"
+    },
+    "3": {
+      "class": "Bockstein_Display",
+      "flavor": "قهوه 3در1"
+    },
+    "4": {
+      "class": "Bockstein_Display",
+      "flavor": "قهوه فوری گلد"
+    },
+    "5": {
+      "class": "Bockstein_Display",
+      "flavor": "موکا"
+    },
+    "6": {
+      "class": "Bockstein_Display",
+      "flavor": "هات چاکلت"
+    },
+    "7": {
+      "class": "Bockstein_Display",
+      "flavor": "کاپوچینو"
+    },
+    "8": {
+      "class": "Bockstein_Pouch",
+      "flavor": "قهوه 3در1"
+    },
+    "9": {
+      "class": "Bockstein_Pouch",
+      "flavor": "کاپوچینو"
+    },
+    "10": {
+      "class": "Bockstein_Sachet",
+      "flavor": "قهوه 2در1"
+    },
+    "11": {
+      "class": "Bockstein_Sachet",
+      "flavor": "قهوه 3در1"
+    },
+    "12": {
+      "class": "Bockstein_Sachet",
+      "flavor": "موکا"
+    },
+    "13": {
+      "class": "Bockstein_Sachet",
+      "flavor": "کاپوچینو"
+    },
+    "14": {
+      "class": "BubbleTrouble_Display",
+      "flavor": "توت فرنگی"
+    },
+    "15": {
+      "class": "BubbleTrouble_Display",
+      "flavor": "توتی فروتی"
+    },
+    "16": {
+      "class": "BubbleTrouble_Display",
+      "flavor": "سیب سبز"
+    },
+    "17": {
+      "class": "Cremona_Glass",
+      "flavor": "کرم کاکائو فندقی"
+    },
+    "18": {
+      "class": "Cremona_JoyStick",
+      "flavor": "جوی استیک"
+    },
+    "19": {
+      "class": "Cremona_Tube",
+      "flavor": "کرم کاکائو فندقی"
+    },
+    "20": {
+      "class": "Shiba_4Season_Jelly",
+      "flavor": "بهار"
+    },
+    "21": {
+      "class": "Shiba_4Season_Jelly",
+      "flavor": "تابستان"
+    },
+    "22": {
+      "class": "Shiba_4Season_Jelly",
+      "flavor": "زمستان"
+    },
+    "23": {
+      "class": "Shiba_4Season_Jelly",
+      "flavor": "پاییز"
+    },
+    "24": {
+      "class": "Shiba_Angel_Kiss",
+      "flavor": "بستنی زمستانی"
+    },
+    "25": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "استوایی"
+    },
+    "26": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "بلوبری"
+    },
+    "27": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "بلک کارنت"
+    },
+    "28": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "لیمو"
+    },
+    "29": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "مخلوط میوه"
+    },
+    "30": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "میوه های قرمز"
+    },
+    "31": {
+      "class": "Shiba_Fruity_Jelly",
+      "flavor": "هندوانه"
+    },
+    "32": {
+      "class": "Shiba_Jelly",
+      "flavor": "آلبالو"
+    },
+    "33": {
+      "class": "Shiba_Jelly",
+      "flavor": "آلوئه ورا"
+    },
+    "34": {
+      "class": "Shiba_Jelly",
+      "flavor": "استخوان"
+    },
+    "35": {
+      "class": "Shiba_Jelly",
+      "flavor": "اعداد"
+    },
+    "36": {
+      "class": "Shiba_Jelly",
+      "flavor": "الفبا"
+    },
+    "37": {
+      "class": "Shiba_Jelly",
+      "flavor": "برکه"
+    },
+    "38": {
+      "class": "Shiba_Jelly",
+      "flavor": "حیوانات"
+    },
+    "39": {
+      "class": "Shiba_Jelly",
+      "flavor": "خرسی"
+    },
+    "40": {
+      "class": "Shiba_Jelly",
+      "flavor": "خفاش و عنکبوت"
+    },
+    "41": {
+      "class": "Shiba_Jelly",
+      "flavor": "دراگون"
+    },
+    "42": {
+      "class": "Shiba_Jelly",
+      "flavor": "دلفین"
+    },
+    "43": {
+      "class": "Shiba_Jelly",
+      "flavor": "سگ خندان"
+    },
+    "44": {
+      "class": "Shiba_Jelly",
+      "flavor": "قلب"
+    },
+    "45": {
+      "class": "Shiba_Jelly",
+      "flavor": "مار"
+    },
+    "46": {
+      "class": "Shiba_Jelly",
+      "flavor": "میکس"
+    },
+    "47": {
+      "class": "Shiba_Jelly",
+      "flavor": "میکس بری"
+    },
+    "48": {
+      "class": "Shiba_Jelly",
+      "flavor": "میکس کولا"
+    },
+    "49": {
+      "class": "Shiba_Jelly",
+      "flavor": "هواپیما"
+    },
+    "50": {
+      "class": "Shiba_Jelly",
+      "flavor": "پاستیل با آبمیوه سن ایچ"
+    },
+    "51": {
+      "class": "Shiba_Jelly",
+      "flavor": "کرم"
+    },
+    "52": {
+      "class": "Shiba_Jelly",
+      "flavor": "کوسه"
+    },
+    "53": {
+      "class": "Shiba_Jelly",
+      "flavor": "کولالا"
+    },
+    "54": {
+      "class": "Shiba_Jelly",
+      "flavor": "گرمسیری"
+    },
+    "55": {
+      "class": "Shiba_Jelly_Aviz",
+      "flavor": "40 گرم"
+    },
+    "56": {
+      "class": "Shiba_Jelly_Bucket",
+      "flavor": "میکس طعم های مختلف"
+    },
+    "57": {
+      "class": "Shiba_Likoritz",
+      "flavor": "اسپاگتی با طعم مخلوط میوه"
+    },
+    "58": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-140گرمی-آلبالو"
+    },
+    "59": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-140گرمی-مخلوط میوه"
+    },
+    "60": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-آلبالو"
+    },
+    "61": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-توت فرنگی"
+    },
+    "62": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-سیب"
+    },
+    "63": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-مخلوط میوه"
+    },
+    "64": {
+      "class": "Shiba_Likoritz",
+      "flavor": "مدادی-کولا"
+    },
+    "65": {
+      "class": "Shiba_Likoritz",
+      "flavor": "نواری با طعم مخلوط میوه"
+    },
+    "66": {
+      "class": "Shiba_MallowBar",
+      "flavor": "بیسکویتی"
+    },
+    "67": {
+      "class": "Shiba_MallowBar",
+      "flavor": "مالوبار"
+    },
+    "68": {
+      "class": "Shiba_MarshMallow",
+      "flavor": "جنگلی"
+    },
+    "69": {
+      "class": "Shiba_MarshMallow",
+      "flavor": "طنابی"
+    },
+    "70": {
+      "class": "Shiba_MarshMallow",
+      "flavor": "قلب"
+    },
+    "71": {
+      "class": "Shiba_MarshMallow",
+      "flavor": "نواری"
+    },
+    "72": {
+      "class": "Shiba_MarshMallow",
+      "flavor": "هندوانه"
+    },
+    "73": {
+      "class": "Shiba_Pof-Pofi",
+      "flavor": "نارگیلی"
+    },
+    "74": {
+      "class": "Shiba_Vita_Jelly",
+      "flavor": "مولتی ویتامین"
+    },
+    "75": {
+      "class": "Shiba_Vita_Jelly",
+      "flavor": "ویتامین آ و ث"
+    },
+    "76": {
+      "class": "Shiba_Vita_Jelly",
+      "flavor": "ویتامین ث"
+    },
+    "77": {
+      "class": "Shiba_Well-Be_Jelly",
+      "flavor": "ایمنی"
+    },
+    "78": {
+      "class": "Shiba_Well-Be_Jelly",
+      "flavor": "شادابی پوست"
+    },
+    "79": {
+      "class": "Shiba_Well-Be_Jelly",
+      "flavor": "ویتامینه"
+    },
+    "80": {
+      "class": "Shibaba_Brownie",
+      "flavor": "براونی"
+    },
+    "81": {
+      "class": "Shibaba_Croissant",
+      "flavor": "اسنک آلبالویی"
+    },
+    "82": {
+      "class": "Shibaba_Croissant",
+      "flavor": "اسنک فندق"
+    },
+    "83": {
+      "class": "Shibaba_Croissant",
+      "flavor": "اسنک کرم کاکائو"
+    },
+    "84": {
+      "class": "Shibaba_Croissant",
+      "flavor": "اسنک کرم کاکائو و فندق"
+    },
+    "85": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "آلبالو"
+    },
+    "86": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "آلوئه ورا"
+    },
+    "87": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "آناناس"
+    },
+    "88": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "انار"
+    },
+    "89": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "انبه"
+    },
+    "90": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "انگور"
+    },
+    "91": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "بلوبری"
+    },
+    "92": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "تمشک"
+    },
+    "93": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "توت سیاه"
+    },
+    "94": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "توت فرنگی"
+    },
+    "95": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "طالبی"
+    },
+    "96": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "لیمو"
+    },
+    "97": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "موز"
+    },
+    "98": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "موز و توت فرنگی"
+    },
+    "99": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "میوه های قرمز"
+    },
+    "100": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "میوه های گرمسیری"
+    },
+    "101": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "هلو"
+    },
+    "102": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "هندوانه"
+    },
+    "103": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "پرتقال"
+    },
+    "104": {
+      "class": "Shibaba_Jelly_Powder",
+      "flavor": "کرم کارامل"
+    },
+    "105": {
+      "class": "Shibaba_TeaCake",
+      "flavor": "ساده-کاکائویی"
+    }
+  },
+  "sku_pair_to_idx": {
+    "Bockstein_Coffee-Drink__قهوه موکا قوطی": 0,
+    "Bockstein_Coffee-Drink__قهوه کلاسیک قوطی": 1,
+    "Bockstein_Display__قهوه 2در1": 2,
+    "Bockstein_Display__قهوه 3در1": 3,
+    "Bockstein_Display__قهوه فوری گلد": 4,
+    "Bockstein_Display__موکا": 5,
+    "Bockstein_Display__هات چاکلت": 6,
+    "Bockstein_Display__کاپوچینو": 7,
+    "Bockstein_Pouch__قهوه 3در1": 8,
+    "Bockstein_Pouch__کاپوچینو": 9,
+    "Bockstein_Sachet__قهوه 2در1": 10,
+    "Bockstein_Sachet__قهوه 3در1": 11,
+    "Bockstein_Sachet__موکا": 12,
+    "Bockstein_Sachet__کاپوچینو": 13,
+    "BubbleTrouble_Display__توت فرنگی": 14,
+    "BubbleTrouble_Display__توتی فروتی": 15,
+    "BubbleTrouble_Display__سیب سبز": 16,
+    "Cremona_Glass__کرم کاکائو فندقی": 17,
+    "Cremona_JoyStick__جوی استیک": 18,
+    "Cremona_Tube__کرم کاکائو فندقی": 19,
+    "Shiba_4Season_Jelly__بهار": 20,
+    "Shiba_4Season_Jelly__تابستان": 21,
+    "Shiba_4Season_Jelly__زمستان": 22,
+    "Shiba_4Season_Jelly__پاییز": 23,
+    "Shiba_Angel_Kiss__بستنی زمستانی": 24,
+    "Shiba_Fruity_Jelly__استوایی": 25,
+    "Shiba_Fruity_Jelly__بلوبری": 26,
+    "Shiba_Fruity_Jelly__بلک کارنت": 27,
+    "Shiba_Fruity_Jelly__لیمو": 28,
+    "Shiba_Fruity_Jelly__مخلوط میوه": 29,
+    "Shiba_Fruity_Jelly__میوه های قرمز": 30,
+    "Shiba_Fruity_Jelly__هندوانه": 31,
+    "Shiba_Jelly__آلبالو": 32,
+    "Shiba_Jelly__آلوئه ورا": 33,
+    "Shiba_Jelly__استخوان": 34,
+    "Shiba_Jelly__اعداد": 35,
+    "Shiba_Jelly__الفبا": 36,
+    "Shiba_Jelly__برکه": 37,
+    "Shiba_Jelly__حیوانات": 38,
+    "Shiba_Jelly__خرسی": 39,
+    "Shiba_Jelly__خفاش و عنکبوت": 40,
+    "Shiba_Jelly__دراگون": 41,
+    "Shiba_Jelly__دلفین": 42,
+    "Shiba_Jelly__سگ خندان": 43,
+    "Shiba_Jelly__قلب": 44,
+    "Shiba_Jelly__مار": 45,
+    "Shiba_Jelly__میکس": 46,
+    "Shiba_Jelly__میکس بری": 47,
+    "Shiba_Jelly__میکس کولا": 48,
+    "Shiba_Jelly__هواپیما": 49,
+    "Shiba_Jelly__پاستیل با آبمیوه سن ایچ": 50,
+    "Shiba_Jelly__کرم": 51,
+    "Shiba_Jelly__کوسه": 52,
+    "Shiba_Jelly__کولالا": 53,
+    "Shiba_Jelly__گرمسیری": 54,
+    "Shiba_Jelly_Aviz__40 گرم": 55,
+    "Shiba_Jelly_Bucket__میکس طعم های مختلف": 56,
+    "Shiba_Likoritz__اسپاگتی با طعم مخلوط میوه": 57,
+    "Shiba_Likoritz__مدادی-140گرمی-آلبالو": 58,
+    "Shiba_Likoritz__مدادی-140گرمی-مخلوط میوه": 59,
+    "Shiba_Likoritz__مدادی-آلبالو": 60,
+    "Shiba_Likoritz__مدادی-توت فرنگی": 61,
+    "Shiba_Likoritz__مدادی-سیب": 62,
+    "Shiba_Likoritz__مدادی-مخلوط میوه": 63,
+    "Shiba_Likoritz__مدادی-کولا": 64,
+    "Shiba_Likoritz__نواری با طعم مخلوط میوه": 65,
+    "Shiba_MallowBar__بیسکویتی": 66,
+    "Shiba_MallowBar__مالوبار": 67,
+    "Shiba_MarshMallow__جنگلی": 68,
+    "Shiba_MarshMallow__طنابی": 69,
+    "Shiba_MarshMallow__قلب": 70,
+    "Shiba_MarshMallow__نواری": 71,
+    "Shiba_MarshMallow__هندوانه": 72,
+    "Shiba_Pof-Pofi__نارگیلی": 73,
+    "Shiba_Vita_Jelly__مولتی ویتامین": 74,
+    "Shiba_Vita_Jelly__ویتامین آ و ث": 75,
+    "Shiba_Vita_Jelly__ویتامین ث": 76,
+    "Shiba_Well-Be_Jelly__ایمنی": 77,
+    "Shiba_Well-Be_Jelly__شادابی پوست": 78,
+    "Shiba_Well-Be_Jelly__ویتامینه": 79,
+    "Shibaba_Brownie__براونی": 80,
+    "Shibaba_Croissant__اسنک آلبالویی": 81,
+    "Shibaba_Croissant__اسنک فندق": 82,
+    "Shibaba_Croissant__اسنک کرم کاکائو": 83,
+    "Shibaba_Croissant__اسنک کرم کاکائو و فندق": 84,
+    "Shibaba_Jelly_Powder__آلبالو": 85,
+    "Shibaba_Jelly_Powder__آلوئه ورا": 86,
+    "Shibaba_Jelly_Powder__آناناس": 87,
+    "Shibaba_Jelly_Powder__انار": 88,
+    "Shibaba_Jelly_Powder__انبه": 89,
+    "Shibaba_Jelly_Powder__انگور": 90,
+    "Shibaba_Jelly_Powder__بلوبری": 91,
+    "Shibaba_Jelly_Powder__تمشک": 92,
+    "Shibaba_Jelly_Powder__توت سیاه": 93,
+    "Shibaba_Jelly_Powder__توت فرنگی": 94,
+    "Shibaba_Jelly_Powder__طالبی": 95,
+    "Shibaba_Jelly_Powder__لیمو": 96,
+    "Shibaba_Jelly_Powder__موز": 97,
+    "Shibaba_Jelly_Powder__موز و توت فرنگی": 98,
+    "Shibaba_Jelly_Powder__میوه های قرمز": 99,
+    "Shibaba_Jelly_Powder__میوه های گرمسیری": 100,
+    "Shibaba_Jelly_Powder__هلو": 101,
+    "Shibaba_Jelly_Powder__هندوانه": 102,
+    "Shibaba_Jelly_Powder__پرتقال": 103,
+    "Shibaba_Jelly_Powder__کرم کارامل": 104,
+    "Shibaba_TeaCake__ساده-کاکائویی": 105
+  }
+}
